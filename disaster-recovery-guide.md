@@ -1,4 +1,6 @@
-# Disaster Recovery and Business Continuity Plan for SMBs
+# Disaster Recovery & Business Continuity Plan for SMBs – SOP
+
+>A unified guide to help small and mid-sized businesses recover critical systems, maintain operations, and stay compliant during unexpected disruptions.
 
 This guide outlines a practical framework for small to mid-sized businesses to develop a Disaster Recovery (DR) and Business Continuity Plan (BCP). The goal is to ensure essential operations can be maintained or quickly restored during and after an unexpected event.
 
