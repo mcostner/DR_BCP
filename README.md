@@ -1,5 +1,4 @@
-# Disaster Recovery & 
-# Business Continuity Plan (SMB Edition)
+# Disaster Recovery & Business Continuity Plan (SMB Edition)
 
 This repository contains a practical, no-fluff disaster recovery and business continuity plan tailored for small to mid-sized businesses.
 
